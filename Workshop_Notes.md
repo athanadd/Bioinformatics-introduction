@@ -64,3 +64,11 @@ Another tool to perform overrepresentation analyses and pathway analyses: [React
 [Gene Ontology Documentation](http://geneontology.org/page/ontology-documentation)
 
 [Gene Ontology (GO) Superfamilies](http://supfam.org/SUPERFAMILY/cgi-bin/go.cgi)
+
+## Interesting reads
+
+[A blog with thoughts about the future of bioinformatics](http://blog.fejes.ca/?p=2521)
+
+[Translational Bioinformatics: Past, Present, and Future](https://www.sciencedirect.com/science/article/pii/S1672022916000401)
+
+[An explosion of bioinformatics careers](http://www.sciencemag.org/features/2014/06/explosion-bioinformatics-careers)
