@@ -1,6 +1,6 @@
 # Introduction to Bioinformatics
 
-#### Bioinformatics Workshop, 04/05/2018 Thessaloniki, Greece.
+#### Bioinformatics Workshop, 29/05/2018 Thessaloniki, Greece.
 
 ## Short Introduction
 
